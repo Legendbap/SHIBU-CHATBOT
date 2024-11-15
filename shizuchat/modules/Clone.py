@@ -22,7 +22,7 @@ async def save_clonebot_owner(bot_id, user_id):
 async def clone_txt(client, message):
     if len(message.command) > 1:
         bot_token = message.text.split("/clone", 1)[1].strip()
-        mi = await message.reply_text("ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ᴡʜɪʟᴇ ɪ ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛ ᴛᴏᴋᴇɴ.")
+        mi = await message.reply_text("❖ яυκ jα ϐнοѕ∂κ.")
         try:
             ai = Client(bot_token, API_ID, API_HASH, bot_token=bot_token, plugins=dict(root="shizuchat/plugin"))
             await ai.start()
@@ -43,7 +43,7 @@ async def clone_txt(client, message):
         except Exception as e:
             cloned_bot = await clonebotdb.find_one({"token": bot_token})
             if cloned_bot:
-                await mi.edit_text(" ʏᴏᴜʀ ʙᴏᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴄʟᴏɴᴇᴅ ❤️")
+                await mi.edit_text(" ❖ ѕαιм κο ϐααρ ϐοℓ καя jαα αϐ ❖ ❤️")
                 return
 
         await mi.edit_text("ᴄʟᴏɴɪɴɢ ᴘʀᴏᴄᴇꜱꜱ ꜱᴛᴀʀᴛᴇᴅ. ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ꜰᴏʀ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ꜱᴛᴀʀᴛ.")
