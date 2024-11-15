@@ -20,8 +20,8 @@ START = """**
 ┗━━━━━•❃°•°❀•━━━━━┛
 
 ╔═══════════════╗
- ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Badhacker98/Chat_Bot/fork)
- ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll)
+ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Legendbap/SHIBU_CHATBOT)
+ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [𝛅 ⋏ ι 𝚳](https://t.me/DADDY_SAIM)
 ╚═══════════════╝
 **"""
 
@@ -32,7 +32,7 @@ OWNER = f"""**
 ──────────────
 ➻ /restart  ʀᴇsᴛᴀʀᴛ &  ᴜᴘᴅᴀᴛᴇ ʀᴇᴘᴏ.  
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝛅 ⋏ ι 𝚳](https://t.me/DADDY_SAIM) 💞**
 """
 
 HELP_READ = f"""**
@@ -62,7 +62,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /rankings /overall ᴜsᴇʀ ᴍsɢ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝛅 ⋏ ι 𝚳](https://t.me/DADDY_SAIM) 💞**
 """
 
 AIBOT_READ = f"""**
@@ -76,7 +76,7 @@ AIBOT_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /blackbox ᴡʀɪᴛᴇ ꜱɪᴍᴘʟᴇ ꜰʟᴀꜱᴋ ᴀᴘᴘ ᴄᴏᴅᴇ
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝛅 ⋏ ι 𝚳](https://t.me/DADDY_SAIM) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -88,7 +88,7 @@ CHATBOT_READ = f"""**
 ──────────────
 ➻ /resetlang, /nolang - ʀᴇsᴇᴛs ᴛʜᴇ ʙᴏᴛ's ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ ᴍɪxᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝛅 ⋏ ι 𝚳](https://t.me/DADDY_SAIM) 💞**
 """
 
 SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{shizuchat.name}](https://t.me/{shizuchat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/Badhacker98/Chat_Bot/fork)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
@@ -118,7 +118,7 @@ ADMIN_READ2 = f"""**
 ──────────────
 ➻ ᴜsᴇ /unmute - ᴜɴᴍᴜᴛᴇ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝛅 ⋏ ι 𝚳](https://t.me/DADDY_SAIM) 💞**
 """
 
 ADMIN_READ = f"""**
@@ -140,7 +140,7 @@ ADMIN_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /warns - ꜱʜᴏᴡ ᴡᴀʀɴɪɴɢ ᴏꜰ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝛅 ⋏ ι 𝚳](https://t.me/DADDY_SAIM) 💞**
 """
 
 ABOUT_READ = f"""
