@@ -2,6 +2,7 @@ import asyncio
 import logging
 import random
 import time
+import psutil
 import config
 from shizuchat import _boot_
 from shizuchat import get_readable_time
